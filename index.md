@@ -6,4 +6,4 @@ Tim is a Software Developer and Agile Coach for Lean TECHniques, Inc. He has wor
 
 Prior to his work with Lean TECHniques, Tim was a Software Developer and Tech Lead at Iowa Student Loan immersed in a culture of Extreme Programming where he learned many valuable practices including Test-Driven Development, Pair Programming, Refactoring, and Continuous Integration. While at Iowa Student Loan, Tim was interviewed by Gojko Adzic and his story is featured as a case-study in the book Specification by Example.
 
-### [twitter](https://twitter.com/timander) | [linkedin](https://www.linkedin.com/in/timandersen/) | [github](https://github.com/timander) | [articles](https://timandersen.net/articles/) | [speaking](presentations/index.html) | [email](mailto:tim@timandersen.net)
+### [twitter](https://twitter.com/timander) | [linkedin](https://www.linkedin.com/in/timandersen/) | [github](https://github.com/timander) | [email](mailto:tim@timandersen.net)
