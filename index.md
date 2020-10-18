@@ -1,4 +1,4 @@
-p { text-indent: 2.0em; font-family: "Lucida Console", Courier, monospace; margin-left: 12.0em; margin-right: 12.0em; text-align: justify; } h2 { font-family: "Lucida Console", Courier, monospace; } a { font-family: "Lucida Console", Courier, monospace; } .center { display: block; margin-left: auto; margin-right: auto; border: 2px solid black; }  timandersen.net ![Tim's Face](https://en.gravatar.com/userimage/2637153/ab53a458cbf9455c8a161c7410890332?size=128)
+![Tim's Face](https://en.gravatar.com/userimage/2637153/ab53a458cbf9455c8a161c7410890332?size=128)
 
 Software Professional in Iowa
 -----------------------------
