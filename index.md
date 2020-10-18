@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+![Tim's Face](https://en.gravatar.com/userimage/2637153/ab53a458cbf9455c8a161c7410890332?size=128)
 
-You can use the [editor on GitHub](https://github.com/timander/timander.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Software Professional in Iowa
+-----------------------------
+Tim is a Software Developer and Agile Coach for Lean TECHniques, Inc. He has worked in software development in several industries including financial, fundraising, insurance, telecommunications and agriculture. He has played several roles including Agile Coach, Tech Lead, Project Manager, Architect, Software Developer, Database Administrator, and Business Analyst. His real passion is to work with people to understand their context and help them by introducing incremental improvements to get better at delivering software.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Prior to his work with Lean TECHniques, Tim was a Software Developer and Tech Lead at Iowa Student Loan immersed in a culture of Extreme Programming where he learned many valuable practices including Test-Driven Development, Pair Programming, Refactoring, and Continuous Integration. While at Iowa Student Loan, Tim was interviewed by Gojko Adzic and his story is featured as a case-study in the book Specification by Example.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/timander/timander.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [twitter](https://twitter.com/timander) | [linkedin](https://www.linkedin.com/in/timandersen/) | [github](https://github.com/timander) | [articles](https://timandersen.net/articles/) | [speaking](presentations/index.html) | [email](mailto:tim@timandersen.net)
